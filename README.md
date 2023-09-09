@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
 <h3 align="center">Aspiring Cyber Security 🕵️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-vipin&label=Profile%20views&color=0e75b6&style=flat" alt="its-vipin" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-vipin" alt="its-vipin" /></a> </p>
 
 - 🌱 I’m currently learning **C++ and Linux tools.**
