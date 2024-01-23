@@ -2,7 +2,8 @@
 <p align="center">
 <!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=435&lines=+++++++++++++++++Hey%2C+This+is+Vipin;I+am+looking+forward+to+work+with+u" /></a>
 </p> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=350&lines=Hey%2C+This+is+Vipin+Kumar;Looking+forward+to+work" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=        Hey%2C+This+is+Vipin+Kumar;Looking+forward+to+work+with+you" alt="Typing SVG" /></a>
 
 <!-- <h3 align="center">Hey there, I'm <a href="https://github.com/Its-Vipin">Its-Vipin</a></h3> -->
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
@@ -56,6 +57,4 @@
 <!-- ## Top Respositorys -->
   <!-- <p align="left">
      <a href="https://github.com/Its-Vipin/miniGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p> -->
