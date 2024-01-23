@@ -3,14 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Unstoppable%2C+vibrant+newbie" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Its-Vipin">Its-Vipin</a></h3>
+<!-- <h3 align="center">Hey there, I'm <a href="https://github.com/Its-Vipin">Its-Vipin</a></h3> -->
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
   <a href="https://discord.gg/VsTXPdqZe6"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@solved.youtube"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/vv1pin/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://github.com/Its-Vipin"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Its-Vipin?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/Its-Vipin"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
  
 ## Profile Views
@@ -31,7 +31,7 @@
 
 ## What I'm Doing
 
-- 🔭 Working on new technologies
+- 🔭 Working on my skills
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: v1pin (Discord), 
 
