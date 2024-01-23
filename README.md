@@ -3,7 +3,7 @@
 <!-- <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=435&lines=+++++++++++++++++Hey%2C+This+is+Vipin;I+am+looking+forward+to+work+with+u" /></a>
 </p> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=        Hey%2C+This+is+Vipin+Kumar;Looking+forward+to+work+with+you" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=        Hey%2C+This+is+Vipin+Kumar;Looking+forward+to+work+with+you" alt="Typing SVG" /></a>
 
 <!-- <h3 align="center">Hey there, I'm <a href="https://github.com/Its-Vipin">Its-Vipin</a></h3> -->
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
