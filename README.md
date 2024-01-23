@@ -31,7 +31,7 @@
 
 ## What I'm Doing
 
-- 🔭 Working on my skills
+- 🔭 Working on new technologies
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: v1pin (Discord), 
 
