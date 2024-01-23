@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=435&lines=         Hey%2C+This+is+Vipin+Kumar;I+am+looking+forward+to+work+with+u" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=435&lines=     Hey%2C+This+is+Vipin+Kumar;I+am+looking+forward+to+work+with+u" /></a>
 </p>
 
 <!-- <h3 align="center">Hey there, I'm <a href="https://github.com/Its-Vipin">Its-Vipin</a></h3> -->
