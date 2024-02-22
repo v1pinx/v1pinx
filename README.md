@@ -36,7 +36,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/Its-Vipin"><img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,replit,git,github,css,html,js,nodejs,java,linux,express,restapi,mongodb"> </a> </p>
+<p align="left"> <a href="https://github.com/Its-Vipin"><img src="https://skillicons.dev/icons?i=c,cpp,css,discord,express,git,github,gmail,html,instagram,java,javascript,kali,linkedin,linux,mongodb,nodejs,postman,python,replit,vscode,windows"> </a> </p>
 
 ## My Stats:
 <p align="center">
