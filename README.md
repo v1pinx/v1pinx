@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=300&lines=      Hey%2C+This+is+Vipin+Kumar;Nice+to+meet+you" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EE25&random=false&width=300&lines=      Hey%2C+Loading.... /></a>
 </p>
 
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
