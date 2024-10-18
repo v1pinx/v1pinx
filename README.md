@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/v1pinx/v1pinx/refs/heads/main/github-header-image.png" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/v1pinx/v1pinx/refs/heads/main/header.png" alt="Here is a little bit about me!">
 
 <p align="center">
   <a href="https://discord.gg/v1pinx"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
