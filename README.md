@@ -1,6 +1,8 @@
 
+
 <img src="https://raw.githubusercontent.com/v1pinx/v1pinx/refs/heads/main/header.png" alt="Here is a little bit about me!">
 
+<p align="center"><a href="https://discord.com/users/588300195901734929"><img src="https://lanyard.kyrie25.dev/api/588300195901734929?imgStyle=square&imgBorderRadius=15px"></a></p>
 <p align="center">
 <a href="https://vipindev.me">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=&logoColor=white"/>
