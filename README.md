@@ -40,5 +40,7 @@
 <h3 align="center">Leetcode stats:</h3>
 
 <p align="center">
+  <a href="https://leetcode.com/v1pin">
   <img src="https://leetcard.jacoblin.cool/v1pin?theme=dark&font=Gilda%20Display&ext=heatmap" alt="LeetCode Stats">
+  </a>
 </p>
