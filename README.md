@@ -22,7 +22,7 @@
   <a href="https://github.com/v1pinx">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6" alt="Languages">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,vite&perline=6" alt="Frontend Development">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres&perline=6" alt="Backend & Databases">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma&perline=6" alt="Backend & Databases">
     <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,vercel,replit&perline=6" alt="Cloud & DevOps">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,powershell,postman&perline=6" alt="Tools">
     <img src="https://skillicons.dev/icons?i=linkedin,discord,kali,linux,jquery&perline=5" alt="Other Skills">
