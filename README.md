@@ -1,7 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/v1pinx/v1pinx/refs/heads/main/header.png" alt="Here is a little bit about me!">
-
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=v1pinx&txt=Software%20Developer"> </p>
 <p align="center"><a href="https://discord.com/users/588300195901734929"><img src="https://lanyard.kyrie25.dev/api/588300195901734929?imgStyle=square&imgBorderRadius=15px"></a></p>
 <p align="center">
 <a href="https://vipindev.me">
