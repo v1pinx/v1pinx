@@ -8,7 +8,7 @@
   </a>
   <a href="https://discord.gg/v1pin"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.youtube.com/@solved.youtube"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/v1pinx/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vipin.biz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/v1pinx"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/v1pinx?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/v1pinx">
     <img src="https://komarev.com/ghpvc/?username=v1pinx&style=for-the-badge&color=brightgreen" alt="Profile Views">
